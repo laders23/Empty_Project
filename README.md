@@ -1,2 +1,0 @@
-# Empty_Project
-KMU
